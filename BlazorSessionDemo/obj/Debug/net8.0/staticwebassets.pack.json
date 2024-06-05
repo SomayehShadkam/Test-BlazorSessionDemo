@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HRC\\Search\\Sessions and State Management\\Projects\\BlazorSessionDemo\\BlazorSessionDemo\\BlazorSessionDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorSessionDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorSessionDemo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\Sessions and State Management\\Projects\\BlazorSessionDemo\\BlazorSessionDemo\\BlazorSessionDemo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\Sessions and State Management\\Projects\\BlazorSessionDemo\\BlazorSessionDemo\\BlazorSessionDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\Sessions and State Management\\Projects\\BlazorSessionDemo\\BlazorSessionDemo\\BlazorSessionDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\Sessions and State Management\\Projects\\BlazorSessionDemo\\BlazorSessionDemo\\BlazorSessionDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorSessionDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorSessionDemo.props",
+      "PackagePath": "build\\BlazorSessionDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorSessionDemo.props",
+      "PackagePath": "buildMultiTargeting\\BlazorSessionDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorSessionDemo.props",
+      "PackagePath": "buildTransitive\\BlazorSessionDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

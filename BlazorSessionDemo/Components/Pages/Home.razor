@@ -1,0 +1,35 @@
+﻿@page "/"
+
+
+@rendermode InteractiveServer
+
+@inject Blazored.SessionStorage.ISessionStorageService session
+@using BlazorSessionDemo.Data
+
+<PageTitle>Blazor Session Storage</PageTitle>
+
+<button class="btn btn-success" @onclick="SetSessionUser">Set Session</button>
+
+<br />
+
+<label>@message</label>
+@code
+{
+    string message;
+
+    public void SetSessionUser()
+    {
+        var user = new UserInfo()
+            {
+                UserId = 1,
+                UserName = "Admin",
+                Password = "123"
+            };
+
+        session.SetItemAsync("SessionUser", user);
+
+        message = "Session Set Successfully!";
+
+    }
+
+}
